@@ -8,24 +8,19 @@ function NavMenu() {
 
   return (
     <div>
-        <Navbar className="navbar-text" expand="lg">
-        Natalie Wilson
-      <Navbar className="navigation" expand="lg">
-        <Navbar.Brand href="/">
-         {/* <img src={require('./butterfly.png')} alt="logo" height="45" width="115"/>*/}
-        </Navbar.Brand>
-        <Navbar.Toggle aria-controls="basic-navbar-nav" />
-        <Navbar.Collapse id="basic-navbar-nav">
-          <Nav className="mr-auto">
+        <Navbar className="navigation" expand="lg">
+            <Navbar.Toggle aria-controls="basic-navbar-nav" />
+            <Navbar.Collapse id="basic-navbar-nav">
+                <Nav className="mr-auto">
+                    <Navbar.Text>
+                        Natalie Wilson
+                    </Navbar.Text>
+                </Nav>
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="faq">Projects</Nav.Link>
             <Nav.Link href="about">Contact</Nav.Link>
-
-          </Nav>
         </Navbar.Collapse>
       </Navbar>
-
-    </Navbar>
     </div>
   );
 }
