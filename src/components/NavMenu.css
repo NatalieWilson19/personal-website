@@ -1,0 +1,20 @@
+.navigation {
+    background-color: #ffffff;
+    color: #ffffff;
+  }
+  .nav-link {
+    color: #613dc1 !important;
+    font-family: montserrat, sans-serif;
+    float: right;
+  }
+  .nav-link:hover {
+    color: #d0d1ff !important;
+  }
+
+  .navbar-text{
+    color: #000000;   
+  }
+  .email {
+    color: #999;
+    margin: 0 20px;
+  }
