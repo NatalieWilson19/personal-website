@@ -1,11 +1,18 @@
 .navigation {
-    background-color: #ffffff;
-    color: #ffffff;
+    background-color: #83c5be;
+    color: #000000;
   }
+
+.navbar-text{
+    color: #ffffff !important;
+    font-size: 22px;
+    font-family: oswald, sans-serif;
+}
   .nav-link {
-    color: #613dc1 !important;
+    color: #e29578 !important;
     font-family: montserrat, sans-serif;
-  }
+    font-size: 16px;  
+}
   .nav-link:hover {
-    color: #d0d1ff !important;
+    color: #ffddd2 !important;
   }

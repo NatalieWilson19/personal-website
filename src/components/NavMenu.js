@@ -12,7 +12,7 @@ function NavMenu() {
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
                 <Nav className="mr-auto">
-                    <Navbar.Text>
+                    <Navbar.Text color="#ffffff">
                         Natalie Wilson
                     </Navbar.Text>
                 </Nav>
