@@ -1,0 +1,23 @@
+.section-title {
+    color: #ffffff;
+    text-align: center;
+    font-size: 40px;
+}
+
+.project-title{
+    color: #ffffff;
+    text-align: left;
+    font-size: 20px;
+    margin-left: 15px;
+}
+.photo {
+
+    width: 500px;
+    height: auto;
+}
+.sos-wa {
+    color: #000;
+    text-align: left;
+    font-size: 14px;
+}
+

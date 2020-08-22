@@ -16,9 +16,9 @@ function NavMenu() {
                         Natalie Wilson
                     </Navbar.Text>
                 </Nav>
-            <Nav.Link href="/">Home</Nav.Link>
-            <Nav.Link href="faq">Projects</Nav.Link>
-            <Nav.Link href="about">Contact</Nav.Link>
+            <Nav.Link href="/" >Home</Nav.Link>
+            <Nav.Link href="/">Projects</Nav.Link>
+            <Nav.Link href="/">Contact</Nav.Link>
         </Navbar.Collapse>
       </Navbar>
     </div>

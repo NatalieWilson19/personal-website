@@ -1,16 +1,39 @@
 import React from "react";
-import './Home.css'
+import './Projects.css'
+import Clusters from '..\\sos-clusters.PNG'
 
-function Home() {
+function Projects() {
     return(
-        <div className="intro-text">
-            <p>
-            Tell me, O muse, of that ingenious hero who travelled far and wide after he had sacked the famous town of Troy. Many cities did he visit, and many were the nations with whose manners and customs he was acquainted; moreover he suffered much by sea while trying to save his own life and bring his men safely home; but do what he might he could not save his men, for they perished through their own sheer folly in eating the cattle of the Sun-god Hyperion; so the god prevented them from ever reaching home. Tell me, too, about all these things, O daughter of Jove, from whatsoever source you may know them.
-            </p>
 
+        <div className="section-title">
+            <p> PROJECTS</p>
+
+        <div className="project-title">
+            <p> SOS WA</p>
+                <img src={Clusters} className="photo" alt="clusters"></img>
+                
+            <div className="sos-wa">
+            <p>
+                With a team of my peers for our senior Capstone project,
+                we collaborated with the UCSC Long Marine Lab to create a 
+                data visualization web app to help them track marine mammal strandings,
+                an event where a marine mammal is washed ashore, living or deceased.
+                Before we collaborated with the LML to create the stradning map, they predominately
+                perfomed data visualization and anlysis with tables and graphs. However, these methods
+                don't provide a way to visualize geospatial data which is an important apsect to studying
+                marine mammal strandings.
+
+                The stranding map allows for the lab to view many data points simutatniosuly,
+                highlight areas of interest, and see how the data shifts overtime.
+
+
+
+                <a href={"http://lmlstrandingmap.herokuapp.com/"}> Check it out here! </a> 
+            </p>
+            </div>
+            </div>
         </div>
-        
     );
 }
 
-export default Home;
+export default Projects;
