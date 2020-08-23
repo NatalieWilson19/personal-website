@@ -17,7 +17,7 @@ function NavMenu() {
                     </Navbar.Text>
                 </Nav>
             <Nav.Link href="/" >Home</Nav.Link>
-            <Nav.Link href="/">Projects</Nav.Link>
+            <Nav.Link href="#projects" id="projects-id">Projects</Nav.Link>
             <Nav.Link href="/">Contact</Nav.Link>
         </Navbar.Collapse>
       </Navbar>

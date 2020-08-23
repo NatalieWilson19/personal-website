@@ -5,7 +5,7 @@ import Clusters from '..\\sos-clusters.PNG'
 function Projects() {
     return(
 
-        <div className="section-title">
+        <div className="section-title" id={'projects'}>
             <p> PROJECTS</p>
 
         <div className="project-title">
