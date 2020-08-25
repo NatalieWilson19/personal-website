@@ -2,7 +2,7 @@
     color: #ffffff;
     text-align: center;
     font-size: 40px;
-    margin-top: 20%;
+    margin-top: 33%;
 }
 
 .project-title{
@@ -12,12 +12,13 @@
     margin-left: 15px;
 }
 .photo {
-
+    float: left;
     width: 500px;
     height: auto;
 }
 .sos-wa {
-    color: #000;
+    float: right;
+    color: #ffffff;
     text-align: left;
     font-size: 14px;
 }
