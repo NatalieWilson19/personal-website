@@ -10,11 +10,14 @@
     text-align: left;
     font-size: 20px;
     margin-left: 15px;
+    float: left
 }
+
 .photo {
     float: left;
     width: 500px;
     height: auto;
+    padding: 10px;
 }
 .sos-wa {
     float: right;
@@ -23,3 +26,11 @@
     font-size: 14px;
 }
 
+.link {
+    color: #000000;
+}
+
+.link:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
