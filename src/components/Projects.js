@@ -32,7 +32,7 @@ function Projects() {
                 The stranding map allows for the lab to view many data points simutatniosuly,
                 highlight areas of interest, and see how the data shifts overtime. Check it out 
 
-                <a href={"http://lmlstrandingmap.herokuapp.com/"} className="link" target="_blank"> here! </a> 
+                <a href={"http://lmlstrandingmap.herokuapp.com/"} className="link" target="_blank" rel="noopener noreferrer"> here! </a> 
             </p>
             </div>
             </div>
