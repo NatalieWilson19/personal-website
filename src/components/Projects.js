@@ -1,6 +1,9 @@
 import React from "react";
 import './Projects.css'
 import Clusters from '..\\sos-clusters.PNG'
+import PollenPlanter from '..\\pollenplanter.png'
+
+/* TODO: Make all padding uniform, change photo of SOS-WA to be of just heatmap, more zoomed in*/
 
 function Projects() {
     return(
@@ -11,7 +14,7 @@ function Projects() {
         <div className="project-title">
             <p> SOS WA</p>
             <div className="sos-wa">
-            <img src={Clusters} className="photo" alt="clusters"></img>    
+            <img src={Clusters} className="sos-photo" alt="clusters"></img>    
 
                 <p>
                 For my senior Capstone project, my team collaborated with the UCSC Long Marine Lab (LML) to create a 
@@ -34,10 +37,31 @@ function Projects() {
 
                 <a href={"http://lmlstrandingmap.herokuapp.com/"} className="link" target="_blank" rel="noopener noreferrer"> here! </a> 
             </p>
+            
             </div>
             </div>
 
+            <div className="project-title">
+
+            <p> PollenPlanter</p>
+
+            <div className="pp">
+            <img src={PollenPlanter} className="pp-photo" alt="pollen"></img>    
+
+                <p>
+
+                    - First place
+
+                    - Bees are dying, encourage the public to be able to plant a garden to help support their habitat
+                    
+
+                </p>
+
+
             </div>
+            </div>
+        </div>
+
     );
 }
 

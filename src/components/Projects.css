@@ -13,7 +13,7 @@
     float: left
 }
 
-.photo {
+.sos-photo {
     float: left;
     width: 500px;
     height: auto;
@@ -32,4 +32,19 @@
 .link:hover {
     color: #000000;
     text-decoration: none;
+}
+
+.pp-photo {
+    float: right;
+    width: 300px;
+    height: auto;
+    padding: 10px;
+}
+
+.pp {
+    float: left;
+    color: #000000;
+    text-align: left;
+    font-size: 14px;
+
 }
