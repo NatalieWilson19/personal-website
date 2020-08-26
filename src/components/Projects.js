@@ -50,9 +50,18 @@ function Projects() {
 
                 <p>
 
-                    - First place
+                    Won first place in the EarthHacks category at CruzHacks 2020.
 
-                    - Bees are dying, encourage the public to be able to plant a garden to help support their habitat
+                    <br />
+                    <br />
+
+                    This is a Mobile App that allows the user to get suggestions on what to plant in their
+                    garden to help support their native pollinators. Most people are aware of the fact that
+                    the bees are dying and a primary reason for this is their dwindling habitat as our world
+                    becomes more devleoped. Planting a garden that the bees can pollinate is something that
+                    we can all do to help support the bees.
+
+                    https://devpost.com/software/pollenplanter
                     
 
                 </p>
