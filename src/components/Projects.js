@@ -3,8 +3,12 @@ import './Projects.css'
 import Clusters from '..\\sos-clusters.PNG'
 import PollenPlanter from '..\\pollenplanter.png'
 
-/* TODO: Make all padding uniform, change photo of SOS-WA to be of just heatmap, more zoomed in*/
+import GitHubMark from '..\\GitHub-Mark-64px.png'
+import GitHubMarkLight from '..\\GitHub-Mark-Light-64px.png'
+import Link from '..\\cute-link.png'
 
+/* TODO: Make all padding uniform, change photo of SOS-WA to be of just heatmap, more zoomed in*/
+/*<a target="_blank" href="https://icons8.com/icons/set/link">Link icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> */
 function Projects() {
     return(
 
@@ -12,9 +16,21 @@ function Projects() {
             <p> PROJECTS</p>
 
         <div className="project-title">
-            <p> SOS WA</p>
+
+            <a href="https://github.com/lmlstrandingnetwork/lml-stranding-map" target="_blank" rel="noopener noreferrer">
+            <img src={GitHubMark} className="github-mark" alt="github-mark"></img>
+            </a>
+            <a href="http://lmlstrandingmap.herokuapp.com/" target="_blank" rel="noopener noreferrer">
+            <img src={Link} className="link-logo" alt="link"></img>
+            </a>
+            <p> Long Marine Lab Stranding Map</p>
+            <div className="project-subtitle">
+
+                <p> Data Visualization Web App
+                    <br />
+                Urbica React Map GL, Firebase, Algolia, Heroku </p>
             <div className="sos-wa">
-            <img src={Clusters} className="sos-photo" alt="clusters"></img>    
+           {/* <img src={Clusters} className="sos-photo" alt="clusters"></img>  */}
 
                 <p>
                 For my senior Capstone project, my team collaborated with the UCSC Long Marine Lab (LML) to create a 
@@ -41,12 +57,14 @@ function Projects() {
             </div>
             </div>
 
+            </div>
+
             <div className="project-title">
 
             <p> PollenPlanter</p>
 
             <div className="pp">
-            <img src={PollenPlanter} className="pp-photo" alt="pollen"></img>    
+            {/*<img src={PollenPlanter} className="pp-photo" alt="pollen"></img> */}
 
                 <p>
 

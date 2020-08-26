@@ -9,8 +9,27 @@
     color: #000000;
     text-align: left;
     font-size: 20px;
-    padding: 15px;
-    float: left
+    float: left;
+}
+
+.project-subtitle {
+    color: grey;
+    font-size: 14px;
+    margin-top: -15px !important;
+}
+
+
+
+.link-logo {
+    float: right;
+    width: 49px;
+    height: auto;
+    margin-right: 15px;
+}
+.github-mark {
+    float: right;
+    width: 45px;
+    height: auto;
 }
 
 .sos-photo {
