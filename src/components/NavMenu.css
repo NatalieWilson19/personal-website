@@ -1,9 +1,11 @@
 .navigation {
     position: relative;
     background: linear-gradient(90deg, #f0027f, #754895);
+
   }
 
-
+  
+  
 .navbar-text{
     color: #ffffff !important;
     font-size: 22px;

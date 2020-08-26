@@ -6,6 +6,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import Resume from "./Resume.pdf";
 
 
+/* I used this website: https://getwaves.io/ to generate the svg code to create the wave */
 function NavMenu() {
 
   return (
