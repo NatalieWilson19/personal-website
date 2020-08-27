@@ -1,8 +1,5 @@
 import React from "react";
 import './Projects.css'
-import Clusters from '..\\sos-clusters.PNG'
-import PollenPlanter from '..\\pollenplanter.png'
-
 import GitHubMark from '..\\GitHub-Mark-64px.png'
 import GitHubMarkLight from '..\\GitHub-Mark-Light-64px.png'
 import Link from '..\\cute-link.png'

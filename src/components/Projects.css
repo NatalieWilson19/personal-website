@@ -32,11 +32,6 @@
     height: auto;
 }
 
-.sos-photo {
-    float: left;
-    width: 500px;
-    height: auto;
-}
 .description {
     float: left;
     color: #000000;
@@ -44,26 +39,9 @@
     font-size: 14px;
 }
 
-.link {
-    color: #000000;
-}
-
-.link:hover {
-    color: #000000;
-    text-decoration: none;
-}
-
 .pp-photo {
     float: right;
     width: 300px;
     height: auto;
     padding: 10px;
-}
-
-.pp {
-    float: left;
-    color: #000000;
-    text-align: left;
-    font-size: 14px;
-
 }
