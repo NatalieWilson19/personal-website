@@ -3,6 +3,7 @@ import './App.css';
 import NavMenu from './components/NavMenu.js'
 import Home from './components/Home.js'
 import Projects from './components/Projects.js'
+import Contact from './components/Contact.js'
 
 
 function App() {
@@ -11,6 +12,7 @@ function App() {
       <NavMenu />
       <Home />
       <Projects />
+      <Contact />
     </div>
   );
 }

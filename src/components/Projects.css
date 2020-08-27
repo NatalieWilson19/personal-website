@@ -10,6 +10,8 @@
     text-align: left;
     font-size: 20px;
     float: left;
+    margin-left: 25px;
+    
 }
 
 .project-subtitle {
@@ -37,6 +39,7 @@
     color: #000000;
     text-align: left;
     font-size: 14px;
+    margin-right: 50px;
 }
 
 .pp-photo {

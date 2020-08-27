@@ -1,6 +1,9 @@
 import React from "react";
 import './Home.css'
 
+
+/*TODO add a little more */
+
 function Home() {
     return(
         <div className="intro-text">

@@ -9,6 +9,8 @@ import Resume from "./Resume.pdf";
 
 /* Explanation for why rel="noopener" is important: https://mathiasbynens.github.io/rel-noopener/#hax */
 
+/*TODO change font of name */
+
 function NavMenu() {
 
   return (
@@ -23,7 +25,7 @@ function NavMenu() {
                 </Nav>
             <Nav.Link href="/" >Home</Nav.Link>
             <Nav.Link href="#projects" id="projects-id">Projects</Nav.Link>
-            <Nav.Link href="/">Contact</Nav.Link>
+            <Nav.Link href="#contact" id="contact-id">Contact</Nav.Link>
             <Nav.Link href={Resume} target="_blank" rel="noopener noreferrer">Resume</Nav.Link>
         </Navbar.Collapse>
       </Navbar>
