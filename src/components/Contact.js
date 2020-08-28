@@ -13,7 +13,7 @@ function Contact() {
             </p>
         <div className="body">
             <p> Send me an email or reach out to me on Linkedin</p>
-            <a href="https://www.linkedin.com/in/natalie-w-08b4639b/" target="_blank" rel="noopener noreferrer">
+            <a href="mailto:nataliewilson519@gmail.com" target="_blank" rel="noopener noreferrer">
                     <img src={Email} className="email-icon" alt="email"></img>
                 </a>
 

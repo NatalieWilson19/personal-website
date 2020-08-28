@@ -36,16 +36,15 @@ function Projects() {
                 <br />
                             <br />
 
-                Before we collaborated with the LML to create the stradning map, they predominately
-                perfomed data visualization and anlysis with tables and graphs. These methods
-                don't provide a way to visualize geospatial data which is an important apsect to studying
-                marine mammal strandings, so we decided to create the stranding map.
+                Before we collaborated with the LML to create the stranding map, the LML predominately
+                perfomed data visualization and anlysis through tables and graphs. These methods
+                don't provide a way to visualize geospatial data which is an important apsect of the data
+                that the LML collects.
 
-                <br />
-                            <br />
+                This is what inspired us to create the stranding map. The stranding map allows for the user to
+                view multiple data points simutaneously, identify areas of interest, and visualize how the data
+                changes overtime. 
 
-                The stranding map allows for the lab to view many data points simutatniosuly,
-                highlight areas of interest, and see how the data shifts overtime.
                         </p>
 
                     </div>
@@ -66,8 +65,7 @@ function Projects() {
 
                     <div className="description">
                         <p> SOS is an iOS app made with the intention of streamlining the
-                            process of reporting a marine mammal stranding. The app is written in Swift
-                            and uses Firebase as the database. When the user selects "report", the app opens
+                            process of reporting a marine mammal stranding. When the user selects "report", the app opens
                             a map where you drop a pin to select your location. The user can also add a short
                             description of the incident. The report is then sent to Firebase.
 
@@ -100,8 +98,6 @@ function Projects() {
                     the bees are dying and a primary reason for this is their dwindling habitat as our world
                     becomes more devleoped. Planting a garden that the bees can pollinate is something that
                     we can all do to help support the bees.
-
-                    https://devpost.com/software/pollenplanter
 
                 </p>
 
