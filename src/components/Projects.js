@@ -9,7 +9,7 @@ import Link from '..\\cute-link.png'
 function Projects() {
     return (
 
-        <div className="section-title" id={'projects'}>
+        <div className="section-title" id={'projects'} display={'block'}>
             <p> PROJECTS</p>
 
             <div className="project-title">

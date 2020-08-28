@@ -10,14 +10,14 @@
     text-align: left;
     font-size: 20px;
     float: left;
-    margin-left: 25px;
+    margin-left: 2%;
     
 }
 
 .project-subtitle {
     color: grey;
     font-size: 14px;
-    margin-top: -15px !important;
+    margin-top: -1.2%;
 }
 
 .link-logo {
@@ -25,12 +25,12 @@
     float: right;
     width: 49px;
     height: auto;
-    margin-right: 15px;
+    margin-right: 1.2%;
 }
 .github-mark {
     position: relative;
     float: right;
-    right: 8px;
+    right: .6%;
     width: 45px;
     height: auto;
 }
@@ -40,12 +40,5 @@
     color: #000000;
     text-align: left;
     font-size: 14px;
-    margin-right: 50px;
-}
-
-.pp-photo {
-    float: right;
-    width: 300px;
-    height: auto;
-    padding: 10px;
+    margin-right: 5%;
 }

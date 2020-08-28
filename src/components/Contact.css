@@ -3,7 +3,7 @@
     position: relative;
     float: center;
     text-align: center;
-    margin-top: 500px;
+    margin-top: 600px;
 }
 
 .body {
@@ -11,25 +11,21 @@
 }
 
 .github-mark-contact {
-    margin-right: 20px;
-    margin-left: 20px;
+    margin-right: 2%;
+    margin-left: 2%;
     height: 40px;
     width: auto;
-    margin-bottom: 490px;
-
+    margin-bottom: 15%;
 }
 
 .linkedin-logo {
     height: 40px;
     width: auto;
-    margin-bottom: 490px;
-
+    margin-bottom: 15%;
 }
 
 .email-icon {
-
     height: 40px;
     width: auto;
-    margin-bottom: 490px;
-
+    margin-bottom: 15%;
 }
