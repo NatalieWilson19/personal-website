@@ -1,11 +1,28 @@
 .title {
-
-    position: absolute;
-    top: 225%;
-    left: 25px;
     font-size: 20px;
+    position: relative;
+    float: center;
+    text-align: center;
 }
 
 .body {
     font-size: 14px;
+}
+
+.github-mark-contact {
+    margin-right: 20px;
+    margin-left: 20px;
+    height: 40px;
+    width: auto;
+}
+
+.linkedin-logo {
+    height: 40px;
+    width: auto;
+}
+
+.email-icon {
+
+    height: 40px;
+    width: auto;
 }

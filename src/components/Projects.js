@@ -67,7 +67,9 @@ function Projects() {
                     <div className="description">
                         <p> SOS is an iOS app made with the intention of streamlining the
                             process of reporting a marine mammal stranding. The app is written in Swift
-                            and uses Firebase as the database.
+                            and uses Firebase as the database. When the user selects "report", the app opens
+                            a map where you drop a pin to select your location. The user can also add a short
+                            description of the incident. The report is then sent to Firebase.
 
                 </p>
 

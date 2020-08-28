@@ -28,8 +28,9 @@
     margin-right: 15px;
 }
 .github-mark {
-    position: absolute;
-    right: 10px;
+    position: relative;
+    float: right;
+    right: 8px;
     width: 45px;
     height: auto;
 }
