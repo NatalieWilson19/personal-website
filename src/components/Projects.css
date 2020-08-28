@@ -2,7 +2,7 @@
     color: #000000;
     text-align: center;
     font-size: 40px;
-    margin-top: 19.7%;
+    margin-top: 20.65%;
 }
 
 .project-title{
@@ -21,8 +21,8 @@
 }
 
 .link-logo {
-    position: absolute;
-    right: 45px;
+    position: relative;
+    float: right;
     width: 49px;
     height: auto;
     margin-right: 15px;
