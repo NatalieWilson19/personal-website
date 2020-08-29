@@ -7,8 +7,9 @@
 .navbar-text{
     color: #ffffff !important;
     font-size: 22px;
-    font-family: montserrat, sans-serif;
+    font-family: Verdana, sans-serif;
     letter-spacing: 3px;
+    text-transform: none;
 }
   .nav-link {
     color: #ffffff !important;
