@@ -19,5 +19,5 @@
     text-transform: uppercase;
 }
   .nav-link:hover {
-    color: #9E9FA9 !important;
+    color: gray !important;
   }

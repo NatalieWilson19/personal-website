@@ -3,7 +3,7 @@
     position: relative;
     float: center;
     text-align: center;
-    margin-top: 600px;
+    margin-top: 638px;
     font-family: montserrat, sans-serif;
 }
 
@@ -15,17 +15,17 @@
 .github-mark-contact {
     margin-right: 4%;
     margin-left: 4%;
-    margin-top: 4%;
+    margin-top: 3%;
     height: 40px;
     width: auto;
-    margin-bottom: 11%;
+    margin-bottom: 7%;
 }
 
 .linkedin-logo {
     height: 45px;
     width: auto;
-    margin-bottom: 11%;
-    margin-top: 4%;
+    margin-bottom: 7%;
+    margin-top: 3%;
 
 }
 
@@ -33,7 +33,7 @@
 .email-icon {
     height: 42px;
     width: auto;
-    margin-bottom: 11%;
-    margin-top: 4%;
+    margin-bottom: 7%;
+    margin-top: 3%;
 
 }
