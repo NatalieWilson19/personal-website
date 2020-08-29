@@ -67,8 +67,8 @@ function Projects() {
                         <p> SOS is an iOS app made with the intention of streamlining the
                             process of reporting a marine mammal stranding. When the user selects "report", the app opens
                             a map where you drop a pin to select your location. The user can also add a short
-                            description of the incident. The report is then sent to Firebase.
-
+                            description of the incident. An authenticated user can login to the app to
+                            view a list of reports.
                 </p>
 
                     </div>
@@ -93,7 +93,7 @@ function Projects() {
                             Won first place in the EarthHacks category at CruzHacks 2020.
                     <br />
                             <br />
-                    This is a Mobile App that allows the user to get suggestions on what to plant in their
+                    PollenPlanter is a Mobile App that allows the user to get suggestions on what to plant in their
                     garden to help support their native pollinators. Most people are aware of the fact that
                     the bees are dying and a primary reason for this is their dwindling habitat as our world
                     becomes more devleoped. Planting a garden that the bees can pollinate is something that
@@ -102,10 +102,6 @@ function Projects() {
                 </p>
 
                     </div>
-
-
-
-
                 </div>
             </div>
         </div>
