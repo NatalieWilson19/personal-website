@@ -23,7 +23,7 @@ function NavMenu() {
                         Natalie Wilson
                     </Navbar.Text>
                 </Nav>
-            <Nav.Link href="/" >HOME</Nav.Link>
+            <Nav.Link href="/" >Home</Nav.Link>
             <Nav.Link href="#projects" id="projects-id">Projects</Nav.Link>
             <Nav.Link href="#contact" id="contact-id">Contact</Nav.Link>
             <Nav.Link href={Resume} target="_blank" rel="noopener noreferrer">Resume</Nav.Link>

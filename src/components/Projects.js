@@ -10,7 +10,7 @@ function Projects() {
     return (
 
         <div className="section-title" id={'projects'} display={'block'}>
-            <p> PROJECTS</p>
+            <p> projects </p>
 
             <div className="project-title">
 
