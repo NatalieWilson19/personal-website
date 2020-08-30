@@ -1,6 +1,6 @@
 import React from "react";
 import './Projects.css'
-import GitHubMark from '..\\GitHub-Mark-64px.png'
+import GitHubMark from '.\\GitHub-Mark-64px.png'
 import GitHubMarkLight from '..\\GitHub-Mark-Light-64px.png'
 import Link from '..\\cute-link.png'
 
