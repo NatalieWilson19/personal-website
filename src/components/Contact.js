@@ -1,7 +1,7 @@
 import React from "react";
 import './Contact.css'
 import LinkedIn from '..\\cute-linkedin-icon.png'
-import GitHubMark from '..\\GitHub-Mark-64px.png'
+import GitHubMark from './GitHub-Mark-64px.png'
 import Email from '..\\cute-email-icon.png'
 
 
