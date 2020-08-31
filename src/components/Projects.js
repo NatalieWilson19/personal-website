@@ -1,7 +1,7 @@
 import React from "react";
 import './Projects.css'
 import GitHubMark from 'GitHub-Mark-64px.png'
-import Link from '..\\cute-link.png'
+import Link from 'cute-link.png'
 
 /* TODO: Make all padding uniform, change photo of SOS-WA to be of just heatmap, more zoomed in*/
 /*<a target="_blank" href="https://icons8.com/icons/set/link">Link icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a> */
