@@ -1,5 +1,6 @@
 .navigation {
     background: linear-gradient(90deg, #ACF6CA, #3C9169);
+    height: 50px;
   }
 
 .navbar-text{
@@ -15,6 +16,9 @@
     font-size: 14px;
     letter-spacing: 2px;
     text-transform: uppercase;
+    position: relative;
+    right: -16px;
+    margin-left: -5px;
 }
   .nav-link:hover {
     color: gray !important;
@@ -22,6 +26,6 @@
 
 .svg {
   position: relative;
-  top: 64px;
-  margin-bottom: 65px;
+  top: 50px;
+  margin-bottom: 58px;
 }
