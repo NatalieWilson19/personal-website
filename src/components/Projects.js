@@ -30,19 +30,19 @@ function Projects() {
                         <p>
                             For my senior Capstone project, my team collaborated with the UCSC Long Marine Lab (LML) to create a
                             data visualization web app to help them track marine mammal strandings,
-                            an event where a marine mammal is washed ashore, living or deceased.
+                            an event where a marine mammal has washed ashore, living or deceased.
 
                 <br />
                             <br />
 
                 Before we collaborated with the LML to create the stranding map, the LML predominately
-                perfomed data visualization and anlysis through tables and graphs. These methods
-                don't provide a way to visualize geospatial data which is an important apsect of the data
+                performed data visualization and analysis through tables and graphs. These methods, though important,
+                don't provide a way to visualize geospatial data which is an important aspect of the data
                 that the LML collects.
 
-                This is what inspired us to create the stranding map. The stranding map allows for the user to
-                view multiple data points simutaneously, identify areas of interest, and visualize how the data
-                changes overtime. 
+                This is what inspired us to create the stranding map. The stranding map allows the user to
+                view multiple data points simultaneously, identify areas of interest, and visualize how the data
+                changes over time. 
 
                         </p>
 
@@ -63,11 +63,11 @@ function Projects() {
                         Swift, Firebase </p>
 
                     <div className="description">
-                        <p> SOS is an iOS app made with the intention of streamlining the
+                        <p> SOS is an iOS app made to streamline the
                             process of reporting a marine mammal stranding. When the user selects "report", the app opens
                             a map where you drop a pin to select your location. The user can also add a short
-                            description of the incident. An authenticated user can login to the app to
-                            view a list of reports.
+                            description of the incident. An authenticated user can then login to the app to
+                            view a list of reports that users have made.
                 </p>
 
                     </div>
@@ -94,9 +94,9 @@ function Projects() {
                             <br />
                     PollenPlanter is a Mobile App that allows the user to get suggestions on what to plant in their
                     garden to help support their native pollinators. Most people are aware of the fact that
-                    the bees are dying and a primary reason for this is their dwindling habitat as our world
-                    becomes more devleoped. Planting a garden that the bees can pollinate is something that
-                    we can all do to help support the bees.
+                    the bees are dying at an alarming rate. A primary reason for this is their dwindling habitat as our world
+                    becomes more developed. Planting a garden that the bees can pollinate is something that
+                    anyone can do to help support the bees.
 
                 </p>
 
